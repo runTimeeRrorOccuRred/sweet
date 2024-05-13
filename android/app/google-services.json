@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "671299315693",
+    "project_id": "sweetlifesaver",
+    "storage_bucket": "sweetlifesaver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671299315693:android:c642b7294b692dabe6a9e4",
+        "android_client_info": {
+          "package_name": "com.sweetlifesaver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671299315693-eq9tn4t2eckqvkmsnvibcuasiuu32mpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sweetlifesaver.app",
+            "certificate_hash": "b5d49d5d34b9d8cfc681b97df7c4e1a0dbfd13df"
+          }
+        },
+        {
+          "client_id": "671299315693-07qfd198q30e4u91bq07186dd5a2safu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALE8YpdBNdOMfKTHq5EV1UcM9tFbyqpn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671299315693-07qfd198q30e4u91bq07186dd5a2safu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
